@@ -1,0 +1,137 @@
+10.50.55  [main] 	Initializing Control Panel
+10.50.55  [main] 	Windows Version:  Home  64-bit
+10.50.55  [main] 	XAMPP Version: 8.3.36
+10.50.55  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10.50.55  [main] 	Running with Administrator rights - good!
+10.50.55  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10.50.55  [main] 	Checking for prerequisites
+10.50.56  [main] 	All prerequisites found
+10.50.56  [main] 	Initializing Modules
+10.50.56  [mysql] 	Problem detected!
+10.50.56  [mysql] 	Port 3306 in use by "Unable to open process"!
+10.50.56  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10.50.56  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10.50.56  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10.50.56  [main] 	Starting Check-Timer
+10.50.56  [main] 	Control Panel Ready
+10.54.46  [Apache] 	Status change detected: running
+10.54.49  [mysql] 	Status change detected: running
+10.55.21  [Apache] 	Status change detected: stopped
+10.55.21  [Apache] 	Error: Apache shutdown unexpectedly.
+10.55.21  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10.55.21  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10.55.21  [Apache] 	Press the Logs button to view error logs and check
+10.55.21  [Apache] 	the Windows Event Viewer for more clues
+10.55.21  [Apache] 	If you need more help, copy and post this
+10.55.21  [Apache] 	entire log window on the forums
+10.55.23  [mysql] 	Status change detected: stopped
+10.55.23  [mysql] 	Error: MySQL shutdown unexpectedly.
+10.55.23  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10.55.23  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10.55.23  [mysql] 	Press the Logs button to view error logs and check
+10.55.23  [mysql] 	the Windows Event Viewer for more clues
+10.55.23  [mysql] 	If you need more help, copy and post this
+10.55.23  [mysql] 	entire log window on the forums
+11.58.51  [Apache] 	Status change detected: running
+11.58.59  [mysql] 	Status change detected: running
+12.13.21  [main] 	Deinitializing Modules
+12.13.21  [main] 	Deinitializing Control Panel
+
+10.54.34  [main] 	Initializing Control Panel
+10.54.34  [main] 	Windows Version:  Home  64-bit
+10.54.34  [main] 	XAMPP Version: 8.3.36
+10.54.34  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10.54.34  [main] 	You are not running with administrator rights! This will work for
+10.54.35  [main] 	most application stuff but whenever you do something with services
+10.54.35  [main] 	there will be a security dialogue or things will break! So think 
+10.54.35  [main] 	about running this application with administrator rights!
+10.54.35  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10.54.35  [main] 	Checking for prerequisites
+10.54.35  [main] 	All prerequisites found
+10.54.35  [main] 	Initializing Modules
+10.54.35  [mysql] 	Problem detected!
+10.54.35  [mysql] 	Port 3306 in use by "Unable to open process"!
+10.54.35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10.54.35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10.54.35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10.54.35  [main] 	Starting Check-Timer
+10.54.35  [main] 	Control Panel Ready
+10.54.45  [Apache] 	Attempting to start Apache app...
+10.54.45  [Apache] 	Status change detected: running
+10.54.48  [mysql] 	Problem detected!
+10.54.48  [mysql] 	Port 3306 in use by "Unable to open process"!
+10.54.48  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10.54.48  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10.54.48  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10.54.48  [mysql] 	Attempting to start MySQL app...
+10.54.49  [mysql] 	Status change detected: running
+10.55.21  [Apache] 	Attempting to stop Apache (PID: 2912)
+10.55.21  [Apache] 	Attempting to stop Apache (PID: 13944)
+10.55.21  [Apache] 	Status change detected: stopped
+10.55.22  [mysql] 	Attempting to stop MySQL app...
+10.55.23  [mysql] 	Status change detected: stopped
+11.58.51  [Apache] 	Attempting to start Apache app...
+11.58.51  [Apache] 	Status change detected: running
+11.58.59  [mysql] 	Problem detected!
+11.58.59  [mysql] 	Port 3306 in use by "Unable to open process"!
+11.58.59  [mysql] 	MySQL WILL NOT start without the configured ports free!
+11.58.59  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+11.58.59  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+11.58.59  [mysql] 	Attempting to start MySQL app...
+11.58.59  [mysql] 	Status change detected: running
+12.13.21  [mysql] 	Status change detected: stopped
+12.13.22  [mysql] 	Error: MySQL shutdown unexpectedly.
+12.13.22  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12.13.22  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12.13.22  [mysql] 	Press the Logs button to view error logs and check
+12.13.22  [mysql] 	the Windows Event Viewer for more clues
+12.13.22  [mysql] 	If you need more help, copy and post this
+12.13.22  [mysql] 	entire log window on the forums
+12.13.22  [Apache] 	Status change detected: stopped
+12.13.22  [Apache] 	Error: Apache shutdown unexpectedly.
+12.13.22  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12.13.22  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12.13.22  [Apache] 	Press the Logs button to view error logs and check
+12.13.22  [Apache] 	the Windows Event Viewer for more clues
+12.13.22  [Apache] 	If you need more help, copy and post this
+12.13.23  [Apache] 	entire log window on the forums
+12.13.23  [main] 	Deinitializing Modules
+12.13.23  [main] 	Deinitializing Control Panel
+
+16.26.27  [main] 	Initializing Control Panel
+16.26.27  [main] 	Windows Version:  Home  64-bit
+16.26.27  [main] 	XAMPP Version: 8.3.36
+16.26.27  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+16.26.27  [main] 	You are not running with administrator rights! This will work for
+16.26.27  [main] 	most application stuff but whenever you do something with services
+16.26.27  [main] 	there will be a security dialogue or things will break! So think 
+16.26.27  [main] 	about running this application with administrator rights!
+16.26.27  [main] 	XAMPP Installation Directory: "c:\xampp\"
+16.26.28  [main] 	Checking for prerequisites
+16.26.29  [main] 	All prerequisites found
+16.26.29  [main] 	Initializing Modules
+16.26.29  [main] 	Starting Check-Timer
+16.26.29  [main] 	Control Panel Ready
+16.26.32  [Apache] 	Attempting to start Apache app...
+16.26.32  [Apache] 	Status change detected: running
+16.26.36  [mysql] 	Attempting to start MySQL app...
+16.26.36  [mysql] 	Status change detected: running
+17.42.32  [mysql] 	Status change detected: stopped
+17.42.32  [mysql] 	Error: MySQL shutdown unexpectedly.
+17.42.33  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17.42.33  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17.42.33  [mysql] 	Press the Logs button to view error logs and check
+17.42.33  [mysql] 	the Windows Event Viewer for more clues
+17.42.33  [mysql] 	If you need more help, copy and post this
+17.42.33  [mysql] 	entire log window on the forums
+17.42.34  [Apache] 	Status change detected: stopped
+17.42.34  [Apache] 	Error: Apache shutdown unexpectedly.
+17.42.34  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17.42.34  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17.42.34  [Apache] 	Press the Logs button to view error logs and check
+17.42.34  [Apache] 	the Windows Event Viewer for more clues
+17.42.34  [Apache] 	If you need more help, copy and post this
+17.42.34  [Apache] 	entire log window on the forums
+17.42.34  [main] 	Deinitializing Modules
+17.42.34  [main] 	Deinitializing Control Panel
+

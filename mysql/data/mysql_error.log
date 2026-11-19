@@ -1,0 +1,296 @@
+2026-11-10 10:49:35 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 5504
+2026-11-10 10:49:35 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-10 10:49:35 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-10 10:49:35 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-10 10:49:35 0 [Note] InnoDB: Using ThreadPool
+2026-11-10 10:49:35 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-10 10:49:35 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-10 10:49:35 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-10 10:49:35 0 [Note] InnoDB: End of log at LSN=305204
+2026-11-10 10:49:35 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-10 10:49:35 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-10 10:49:35 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-10 10:49:35 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-10 10:49:35 0 [Note] InnoDB: log sequence number 305204; transaction id 171
+2026-11-10 10:49:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-10 10:49:35 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-10 10:49:35 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-10 10:49:35 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-10 10:49:35 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10013: An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2026-11-10 10:49:35 0 [ERROR] Do you already have another server running on port: 3306 ?
+2026-11-10 10:49:35 0 [ERROR] Aborting
+2026-11-10 10:54:49 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 6116
+2026-11-10 10:54:49 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-10 10:54:49 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-10 10:54:49 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-10 10:54:49 0 [Note] InnoDB: Using ThreadPool
+2026-11-10 10:54:49 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-10 10:54:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-10 10:54:49 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-10 10:54:49 0 [Note] InnoDB: End of log at LSN=305204
+2026-11-10 10:54:49 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-10 10:54:49 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-10 10:54:49 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-10 10:54:49 0 [Note] InnoDB: log sequence number 305204; transaction id 171
+2026-11-10 10:54:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-10 10:54:49 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-10 10:54:49 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-10 10:54:49 0 [Note] InnoDB: Buffer pool(s) load completed at 261110 10:54:49
+2026-11-10 10:54:49 0 [Note] Server socket created on IP: '::', port: '3307'.
+2026-11-10 10:54:49 0 [Note] Server socket created on IP: '0.0.0.0', port: '3307'.
+2026-11-10 10:54:49 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3307  MariaDB Server
+2026-11-10 11:58:59 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 4132
+2026-11-10 11:58:59 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-10 11:58:59 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-10 11:58:59 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-10 11:58:59 0 [Note] InnoDB: Using ThreadPool
+2026-11-10 11:58:59 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-10 11:58:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-10 11:58:59 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-10 11:58:59 0 [Note] InnoDB: End of log at LSN=305204
+2026-11-10 11:58:59 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-10 11:58:59 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-10 11:58:59 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-10 11:58:59 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-10 11:58:59 0 [Note] InnoDB: log sequence number 305204; transaction id 171
+2026-11-10 11:58:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-10 11:58:59 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-10 11:58:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-10 11:58:59 0 [Note] Server socket created on IP: '::', port: '3307'.
+2026-11-10 11:58:59 0 [Note] Server socket created on IP: '0.0.0.0', port: '3307'.
+2026-11-10 11:58:59 0 [Note] InnoDB: Buffer pool(s) load completed at 261110 11:58:59
+2026-11-10 11:58:59 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3307  MariaDB Server
+2026-11-10 14:08:36 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 16444
+2026-11-10 14:08:36 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-10 14:08:36 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-10 14:08:36 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-10 14:08:36 0 [Note] InnoDB: Using ThreadPool
+2026-11-10 14:08:36 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-10 14:08:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-10 14:08:36 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-10 14:08:36 0 [Note] InnoDB: End of log at LSN=305204
+2026-11-10 14:08:36 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-10 14:08:36 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-10 14:08:36 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-10 14:08:36 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-10 14:08:36 0 [Note] InnoDB: log sequence number 305204; transaction id 171
+2026-11-10 14:08:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-10 14:08:36 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-10 14:08:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-10 14:08:36 0 [Note] Server socket created on IP: '::', port: '3307'.
+2026-11-10 14:08:36 0 [Note] Server socket created on IP: '0.0.0.0', port: '3307'.
+2026-11-10 14:08:36 0 [Note] InnoDB: Buffer pool(s) load completed at 261110 14:08:36
+2026-11-10 14:08:37 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3307  MariaDB Server
+2026-11-10 14:23:24 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 3516
+2026-11-10 14:23:24 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-10 14:23:24 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-10 14:23:24 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-10 14:23:24 0 [Note] InnoDB: Using ThreadPool
+2026-11-10 14:23:24 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-10 14:23:24 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-10 14:23:24 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-10 14:23:24 0 [Note] InnoDB: End of log at LSN=305204
+2026-11-10 14:23:24 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-10 14:23:24 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-10 14:23:24 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-10 14:23:24 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-10 14:23:24 0 [Note] InnoDB: log sequence number 305204; transaction id 171
+2026-11-10 14:23:24 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-10 14:23:24 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-10 14:23:24 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-10 14:23:24 0 [Note] InnoDB: Buffer pool(s) load completed at 261110 14:23:24
+2026-11-10 14:23:24 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-10 14:23:24 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-10 14:23:24 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-10 14:24:37 4 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2026-11-10 14:24:40 6 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2026-11-10 14:24:44 8 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2026-11-10 16:26:36 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 3824
+2026-11-10 16:26:36 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-10 16:26:36 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-10 16:26:36 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-10 16:26:36 0 [Note] InnoDB: Using ThreadPool
+2026-11-10 16:26:36 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-10 16:26:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-10 16:26:36 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-10 16:26:36 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=305188
+2026-11-10 16:26:36 0 [Note] InnoDB: End of log at LSN=305996
+2026-11-10 16:26:36 0 [Note] InnoDB: To recover: 3 pages
+2026-11-10 16:26:36 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-10 16:26:36 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-10 16:26:36 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-10 16:26:36 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-10 16:26:36 0 [Note] InnoDB: log sequence number 305996; transaction id 196
+2026-11-10 16:26:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-10 16:26:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-10 16:26:36 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-10 16:26:36 0 [Note] InnoDB: Buffer pool(s) load completed at 261110 16:26:36
+2026-11-10 16:26:36 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-10 16:26:36 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-10 16:26:36 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-11  7:45:18 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 4784
+2026-11-11  7:45:18 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-11  7:45:18 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-11  7:45:18 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-11  7:45:18 0 [Note] InnoDB: Using ThreadPool
+2026-11-11  7:45:18 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-11  7:45:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-11  7:45:18 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-11  7:45:18 0 [Note] InnoDB: End of log at LSN=306100
+2026-11-11  7:45:18 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-11  7:45:18 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-11  7:45:18 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-11  7:45:18 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-11  7:45:18 0 [Note] InnoDB: log sequence number 306100; transaction id 196
+2026-11-11  7:45:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-11  7:45:18 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-11  7:45:18 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-11  7:45:18 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-11  7:45:18 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-11  7:45:18 0 [Note] InnoDB: Buffer pool(s) load completed at 261111  7:45:18
+2026-11-11  7:45:18 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-11 13:36:59 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 9932
+2026-11-11 13:36:59 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-11 13:36:59 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-11 13:36:59 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-11 13:36:59 0 [Note] InnoDB: Using ThreadPool
+2026-11-11 13:36:59 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-11 13:36:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-11 13:36:59 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-11 13:36:59 0 [Note] InnoDB: End of log at LSN=306116
+2026-11-11 13:36:59 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-11 13:36:59 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-11 13:36:59 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-11 13:36:59 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-11 13:36:59 0 [Note] InnoDB: log sequence number 306116; transaction id 196
+2026-11-11 13:36:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-11 13:36:59 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-11 13:37:00 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-11 13:37:00 0 [Note] InnoDB: Buffer pool(s) load completed at 261111 13:37:00
+2026-11-11 13:37:00 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-11 13:37:00 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-11 13:37:00 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-12 11:53:46 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 9276
+2026-11-12 11:53:46 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-12 11:53:46 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-12 11:53:46 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-12 11:53:46 0 [Note] InnoDB: Using ThreadPool
+2026-11-12 11:53:46 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-12 11:53:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-12 11:53:46 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-12 11:53:46 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=306100
+2026-11-12 11:53:46 0 [Note] InnoDB: End of log at LSN=313715
+2026-11-12 11:53:46 0 [Note] InnoDB: To recover: 11 pages
+2026-11-12 11:53:46 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-12 11:53:46 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-12 11:53:46 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-12 11:53:46 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-12 11:53:46 0 [Note] InnoDB: log sequence number 313715; transaction id 251
+2026-11-12 11:53:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-12 11:53:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-12 11:53:46 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-12 11:53:46 0 [Note] InnoDB: Buffer pool(s) load completed at 261112 11:53:46
+2026-11-12 11:53:46 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-12 11:53:46 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-12 11:53:46 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-12 13:34:04 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 15088
+2026-11-12 13:34:04 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-12 13:34:04 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-12 13:34:04 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-12 13:34:04 0 [Note] InnoDB: Using ThreadPool
+2026-11-12 13:34:04 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-12 13:34:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-12 13:34:04 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-12 13:34:04 0 [Note] InnoDB: End of log at LSN=314073
+2026-11-12 13:34:04 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-12 13:34:04 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-12 13:34:04 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-12 13:34:04 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-12 13:34:04 0 [Note] InnoDB: log sequence number 314073; transaction id 251
+2026-11-12 13:34:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-12 13:34:04 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-12 13:34:04 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-12 13:34:04 0 [Note] InnoDB: Buffer pool(s) load completed at 261112 13:34:04
+2026-11-12 13:34:04 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-12 13:34:04 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-12 13:34:04 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-17 13:17:42 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 5436
+2026-11-17 13:17:42 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-17 13:17:42 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-17 13:17:42 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-17 13:17:42 0 [Note] InnoDB: Using ThreadPool
+2026-11-17 13:17:42 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-17 13:17:42 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-17 13:17:42 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-17 13:17:42 0 [Note] InnoDB: End of log at LSN=314089
+2026-11-17 13:17:42 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-17 13:17:42 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-17 13:17:42 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-17 13:17:42 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-17 13:17:42 0 [Note] InnoDB: log sequence number 314089; transaction id 251
+2026-11-17 13:17:42 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-17 13:17:42 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-17 13:17:42 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-17 13:17:42 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-17 13:17:42 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-17 13:17:42 0 [Note] InnoDB: Buffer pool(s) load completed at 261117 13:17:42
+2026-11-17 13:17:42 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-18 15:26:33 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 4064
+2026-11-18 15:26:33 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-18 15:26:33 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-18 15:26:33 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-18 15:26:33 0 [Note] InnoDB: Using ThreadPool
+2026-11-18 15:26:33 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-18 15:26:33 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-18 15:26:33 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-18 15:26:34 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=373895
+2026-11-18 15:26:34 0 [Note] InnoDB: End of log at LSN=415755
+2026-11-18 15:26:34 0 [Note] InnoDB: To recover: 57 pages
+2026-11-18 15:26:34 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-18 15:26:34 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-18 15:26:34 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-18 15:26:34 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-18 15:26:34 0 [Note] InnoDB: log sequence number 415755; transaction id 410
+2026-11-18 15:26:34 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-18 15:26:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-18 15:26:34 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-18 15:26:34 0 [Note] InnoDB: Buffer pool(s) load completed at 261118 15:26:34
+2026-11-18 15:26:34 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-18 15:26:34 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-18 15:26:34 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
+2026-11-19  7:53:15 0 [Note] Starting MariaDB 10.11.16-MariaDB source revision 3218602d3100db9ce7a875511a591cddc173cc16 server_uid unknown as process 280
+2026-11-19  7:53:15 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-11-19  7:53:15 0 [Note] InnoDB: Number of transaction pools: 1
+2026-11-19  7:53:15 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-11-19  7:53:15 0 [Note] InnoDB: Using ThreadPool
+2026-11-19  7:53:15 0 [Note] InnoDB: innodb_buffer_pool_size_max=16m, innodb_buffer_pool_size=16m
+2026-11-19  7:53:15 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-11-19  7:53:15 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-11-19  7:53:15 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=416691
+2026-11-19  7:53:15 0 [Note] InnoDB: End of log at LSN=426088
+2026-11-19  7:53:15 0 [Note] InnoDB: To recover: 11 pages
+2026-11-19  7:53:15 0 [Note] InnoDB: 128 rollback segments are active.
+2026-11-19  7:53:15 0 [Note] InnoDB: Removed temporary tablespace data file: "C:/xampp/mysql/data/ibtmp1"
+2026-11-19  7:53:15 0 [Note] InnoDB: Setting file 'C:/xampp/mysql/data/ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-11-19  7:53:15 0 [Note] InnoDB: File 'C:/xampp/mysql/data/ibtmp1' size is now 12.000MiB.
+2026-11-19  7:53:15 0 [Note] InnoDB: log sequence number 426088; transaction id 471
+2026-11-19  7:53:15 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-11-19  7:53:15 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2026-11-19  7:53:15 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-11-19  7:53:15 0 [Note] InnoDB: Buffer pool(s) load completed at 261119  7:53:15
+2026-11-19  7:53:15 0 [Note] Server socket created on IP: '::', port: '3306'.
+2026-11-19  7:53:15 0 [Note] Server socket created on IP: '0.0.0.0', port: '3306'.
+2026-11-19  7:53:15 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.11.16-MariaDB'  socket: ''  port: 3306  MariaDB Server
